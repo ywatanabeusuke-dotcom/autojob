@@ -1,0 +1,4 @@
+PyQt6>=6.6.0
+faster-whisper>=1.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
