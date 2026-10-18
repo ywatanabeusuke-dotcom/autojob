@@ -1,0 +1,8 @@
+IMAGE: panels/01.png
+TEXT: 昔々、ある村に一人の少年が住んでいた。
+---
+IMAGE: panels/02.png
+TEXT: その村の近くには、誰も足を踏み入れたことのない森があった。
+---
+IMAGE: panels/03.png
+TEXT: ある日、少年はその森へと足を踏み出した。
